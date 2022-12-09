@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://simseven.github.io</id>
+    <title>SimSeven‘s Blog</title>
+    <updated>2022-12-09T15:34:27.996Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://simseven.github.io"/>
+    <link rel="self" href="https://simseven.github.io/atom.xml"/>
+    <subtitle>近朱者赤  近墨者黑</subtitle>
+    <logo>https://simseven.github.io/images/avatar.png</logo>
+    <icon>https://simseven.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, SimSeven‘s Blog</rights>
+</feed>
